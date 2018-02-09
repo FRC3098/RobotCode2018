@@ -9,10 +9,10 @@
 // it from being updated in the future.
 
 
-package org.usfirst.frc3098.RobotTemplate.commands;
-import org.usfirst.frc3098.RobotTemplate.Robot;
-import org.usfirst.frc3098.RobotTemplate.util.Constants;
-import org.usfirst.frc3098.RobotTemplate.util.JoystickAxisScaling;
+package org.usfirst.frc3098.RobotCode2018.commands;
+import org.usfirst.frc3098.RobotCode2018.Robot;
+import org.usfirst.frc3098.RobotCode2018.util.Constants;
+import org.usfirst.frc3098.RobotCode2018.util.JoystickAxisScaling;
 
 import edu.wpi.first.wpilibj.command.Command;
 

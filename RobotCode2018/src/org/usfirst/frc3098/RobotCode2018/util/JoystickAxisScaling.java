@@ -1,4 +1,4 @@
-package org.usfirst.frc3098.RobotTemplate.util;
+package org.usfirst.frc3098.RobotCode2018.util;
 
 public class JoystickAxisScaling {
 	

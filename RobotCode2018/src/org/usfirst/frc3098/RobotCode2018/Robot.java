@@ -1,7 +1,7 @@
 
 
 
-package org.usfirst.frc3098.RobotTemplate;
+package org.usfirst.frc3098.RobotCode2018;
 
 import edu.wpi.first.wpilibj.TimedRobot;
 import edu.wpi.first.wpilibj.command.Command;
@@ -9,8 +9,9 @@ import edu.wpi.first.wpilibj.command.Scheduler;
 import edu.wpi.first.wpilibj.livewindow.LiveWindow;
 import edu.wpi.first.wpilibj.smartdashboard.SendableChooser;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
-import org.usfirst.frc3098.RobotTemplate.commands.*;
-import org.usfirst.frc3098.RobotTemplate.subsystems.*;
+
+import org.usfirst.frc3098.RobotCode2018.commands.*;
+import org.usfirst.frc3098.RobotCode2018.subsystems.*;
 
 /**
  * The VM is configured to automatically run this class, and to call the

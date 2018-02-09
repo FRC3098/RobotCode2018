@@ -1,9 +1,9 @@
-package org.usfirst.frc3098.RobotTemplate.subsystems;
+package org.usfirst.frc3098.RobotCode2018.subsystems;
 
-import org.usfirst.frc3098.RobotTemplate.Robot;
-import org.usfirst.frc3098.RobotTemplate.RobotMap;
-import org.usfirst.frc3098.RobotTemplate.commands.*;
-import org.usfirst.frc3098.RobotTemplate.util.Constants;
+import org.usfirst.frc3098.RobotCode2018.Robot;
+import org.usfirst.frc3098.RobotCode2018.RobotMap;
+import org.usfirst.frc3098.RobotCode2018.commands.*;
+import org.usfirst.frc3098.RobotCode2018.util.Constants;
 
 import edu.wpi.first.wpilibj.command.Subsystem;
 

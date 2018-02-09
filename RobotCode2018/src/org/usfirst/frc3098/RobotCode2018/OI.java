@@ -1,7 +1,7 @@
 
-package org.usfirst.frc3098.RobotTemplate;
+package org.usfirst.frc3098.RobotCode2018;
 
-import org.usfirst.frc3098.RobotTemplate.commands.CmdDriveTrainJoystickDrive;
+import org.usfirst.frc3098.RobotCode2018.commands.CmdDriveTrainJoystickDrive;
 
 import edu.wpi.first.wpilibj.Joystick;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
