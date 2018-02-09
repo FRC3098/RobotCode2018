@@ -46,7 +46,7 @@ public class Robot extends TimedRobot {
 
         // Add commands to Autonomous Sendable Chooser
         
-        //this should work
+        //this should work ok
 
         chooser.addDefault("Autonomous Command", new AutonomousCommand());
 
