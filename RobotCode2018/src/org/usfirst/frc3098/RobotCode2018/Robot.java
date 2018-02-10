@@ -47,6 +47,8 @@ public class Robot extends TimedRobot {
         // Add commands to Autonomous Sendable Chooser
         
         //this should work ok
+        
+        //this is a comment in the dev branch of Motion Profile
 
         chooser.addDefault("Autonomous Command", new AutonomousCommand());
 
